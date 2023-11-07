@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/e-kotov-r-universe/universe
-	shallow = true
 	branch = HEAD
-[submodule "wikimapR"]
-	path = wikimapR
-	url = https://github.com/e-kotov/wikimapR
-	shallow = true
-	registered = true
 [submodule "flows"]
 	path = flows
 	url = https://github.com/riatelab/flows
-	shallow = true
-	registered = true
+[submodule "wikimapR"]
+	path = wikimapR
+	url = https://github.com/e-kotov/wikimapR
