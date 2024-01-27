@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/e-kotov-r-universe/universe
+	url = https://github.com/e-kotov-r-universe/e-kotov-r-universe.r-universe.dev
 	branch = HEAD
 [submodule "flows"]
 	path = flows
